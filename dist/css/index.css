@@ -1,8 +1,0 @@
-/** create by songbw 2019/1/8 */
-body {
-  color: red;
-  background: -webkit-gradient(linear, left top, left bottom, from(red), to(#369));
-  background: -webkit-linear-gradient(red, #369);
-  background: -o-linear-gradient(red, #369);
-  background: linear-gradient(red, #369); }
-
