@@ -4,9 +4,9 @@ const MiniCSSExtractPlugin = require('mini-css-extract-plugin')
 const base = require('./base')
 
 module.exports = merge(base, {
-  mode: 'development',
+  mode: 'production',
   output: {
-    // publicPath: 'http://songbw.cn'
+    // publicPath: ''
   },
   module: {
     rules: [
